@@ -13,6 +13,10 @@ A curated list of amazingly awesome Grafana resources.
 * [Multistat Panel](https://github.com/michaeldmoore/michaeldmoore-multistat-panel) - A smart table display panel with fixed, updating rows (or columns)
 * [Pie Chart Panel](https://github.com/grafana/piechart-panel)
 * [Worldmap Panel](https://github.com/grafana/worldmap-panel) - Worldmap panel plugin for Grafana that can be overlaid with circles for data points
+* [Diagram Panel](https://github.com/jdbranham/grafana-diagram) - A panel plugin that provides a way to create flow-charts, sequence diagrams, and gantt charts by leveraging the mermaid.js library
+* [Annunciator Panel](https://github.com/michaeldmoore/michaeldmoore-annunciator-panel) - Custom annunciator panel for grafana, based on the built-in SingleStat panel
+* [Carpet Plot Panel](https://grafana.com/grafana/plugins/petrslavotinek-carpetplot-panel) - Carpet plot panel plugin
+* [Discrete Panel](https://github.com/NatelEnergy/grafana-discrete-panel) - This panel shows discrete values in a horizontal graph. This lets show state transitions clearly
 * [“Hello World” panel using Angular](https://github.com/grafana/simple-angular-panel)
 * [“Hello World” panel using React](https://github.com/grafana/simple-react-panel)
 
